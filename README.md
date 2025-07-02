@@ -9,7 +9,7 @@
 
 ## 🚀 About
 
-**GorillaFusion** is an open-source Unity wrapper that brings multiplayer networking to [Gorilla Locomotion](https://github.com/DeadlyCobra/GorillaLocomotion) using **Photon Fusion 2**.
+**GorillaFusion** is an open-source Unity wrapper that brings multiplayer networking to [Gorilla Locomotion](https://github.com/Another-Axiom/GorillaLocomotion) using **Photon Fusion 2**.
 
 It simplifies syncing VR body parts like the head and hands, and provides ready-to-use components to get you started with multiplayer Gorilla Tag-style movement quickly.
 
@@ -29,7 +29,7 @@ It simplifies syncing VR body parts like the head and hands, and provides ready-
 
 - Unity **2022.3 or newer**  
 - [Photon Fusion 2 SDK](https://doc.photonengine.com/fusion/current/)  
-- [Gorilla Locomotion System](https://github.com/DeadlyCobra/GorillaLocomotion)  
+- [Gorilla Locomotion System](https://github.com/Another-Axiom/GorillaLocomotion)  
 - XR Interaction Toolkit (or your preferred VR input system)  
 
 ---
